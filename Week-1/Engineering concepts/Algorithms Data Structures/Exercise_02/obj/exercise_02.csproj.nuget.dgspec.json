@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bindu\\Downloads\\Cognizant-main\\Cognizant-main\\Cognizant-main\\Deepskilling\\Engineering concepts\\Algorithms_Data_Structures\\Exercise_02\\exercise_02.csproj": {}
+    "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Week-1\\Engineering concepts\\Algorithms Data Structures\\Exercise_02\\exercise_02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bindu\\Downloads\\Cognizant-main\\Cognizant-main\\Cognizant-main\\Deepskilling\\Engineering concepts\\Algorithms_Data_Structures\\Exercise_02\\exercise_02.csproj": {
+    "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Week-1\\Engineering concepts\\Algorithms Data Structures\\Exercise_02\\exercise_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bindu\\Downloads\\Cognizant-main\\Cognizant-main\\Cognizant-main\\Deepskilling\\Engineering concepts\\Algorithms_Data_Structures\\Exercise_02\\exercise_02.csproj",
+        "projectUniqueName": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Week-1\\Engineering concepts\\Algorithms Data Structures\\Exercise_02\\exercise_02.csproj",
         "projectName": "exercise_02",
-        "projectPath": "C:\\Users\\Bindu\\Downloads\\Cognizant-main\\Cognizant-main\\Cognizant-main\\Deepskilling\\Engineering concepts\\Algorithms_Data_Structures\\Exercise_02\\exercise_02.csproj",
-        "packagesPath": "C:\\Users\\Bindu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bindu\\Downloads\\Cognizant-main\\Cognizant-main\\Cognizant-main\\Deepskilling\\Engineering concepts\\Algorithms_Data_Structures\\Exercise_02\\obj\\",
+        "projectPath": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Week-1\\Engineering concepts\\Algorithms Data Structures\\Exercise_02\\exercise_02.csproj",
+        "packagesPath": "C:\\Users\\POOJITHA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Week-1\\Engineering concepts\\Algorithms Data Structures\\Exercise_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bindu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\POOJITHA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
