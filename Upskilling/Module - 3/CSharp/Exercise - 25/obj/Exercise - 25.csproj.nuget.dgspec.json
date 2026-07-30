@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Upskilling\\Module - 3\\CSharp\\Exercise - 25\\Exercise - 25.csproj": {}
+    "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Upskilling\\Module - 3\\CSharp\\Exercise - 25\\Exercise - 25.csproj": {}
   },
   "projects": {
-    "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Upskilling\\Module - 3\\CSharp\\Exercise - 25\\Exercise - 25.csproj": {
+    "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Upskilling\\Module - 3\\CSharp\\Exercise - 25\\Exercise - 25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Upskilling\\Module - 3\\CSharp\\Exercise - 25\\Exercise - 25.csproj",
+        "projectUniqueName": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Upskilling\\Module - 3\\CSharp\\Exercise - 25\\Exercise - 25.csproj",
         "projectName": "Exercise - 25",
-        "projectPath": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Upskilling\\Module - 3\\CSharp\\Exercise - 25\\Exercise - 25.csproj",
+        "projectPath": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Upskilling\\Module - 3\\CSharp\\Exercise - 25\\Exercise - 25.csproj",
         "packagesPath": "C:\\Users\\POOJITHA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Upskilling\\Module - 3\\CSharp\\Exercise - 25\\obj\\",
+        "outputPath": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Upskilling\\Module - 3\\CSharp\\Exercise - 25\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\POOJITHA\\AppData\\Roaming\\NuGet\\NuGet.Config",

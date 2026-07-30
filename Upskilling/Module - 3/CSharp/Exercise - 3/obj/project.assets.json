@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Upskilling\\Module - 3\\CSharp\\Exercise - 3\\Exercise - 3.csproj",
+      "projectUniqueName": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Upskilling\\Module - 3\\CSharp\\Exercise - 3\\Exercise - 3.csproj",
       "projectName": "Exercise - 3",
-      "projectPath": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Upskilling\\Module - 3\\CSharp\\Exercise - 3\\Exercise - 3.csproj",
+      "projectPath": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Upskilling\\Module - 3\\CSharp\\Exercise - 3\\Exercise - 3.csproj",
       "packagesPath": "C:\\Users\\POOJITHA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Upskilling\\Module - 3\\CSharp\\Exercise - 3\\obj\\",
+      "outputPath": "C:\\Users\\POOJITHA\\OneDrive\\Documents\\Deepskilling\\Upskilling\\Module - 3\\CSharp\\Exercise - 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\POOJITHA\\AppData\\Roaming\\NuGet\\NuGet.Config",
