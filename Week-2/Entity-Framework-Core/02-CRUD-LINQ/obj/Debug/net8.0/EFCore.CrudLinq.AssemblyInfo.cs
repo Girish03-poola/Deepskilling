@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFCore.CrudLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ab7870cd900d77417dc5bc3656950b45061590a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5adab031a5f9e1a137cd7b48edb29e1d0609c2cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCore.CrudLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCore.CrudLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
